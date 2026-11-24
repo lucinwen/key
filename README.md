@@ -10,6 +10,12 @@
 
 ｜[故事主旨与人物逻辑](docs/story-canon.md)｜[V09.1 归档台本](docs/screenplay-v09.1.md)｜[开场摄影方案](docs/opening-cinematography.md)｜[预演时码](docs/animatic-timing.csv)｜[分镜与版本说明](docs/storyboard-index.md)｜[全分镜画廊](docs/gallery.md)｜[原图校验索引](docs/shot-file-map.csv)｜
 
+## Cinema DNA · 369 张新版
+
+[新版原图与验收记录](production/cinema-dna/README.md) · [查找每个原镜号](production/cinema-dna/shot-index.csv)
+
+新版采用逐场检查光位、空间和动作连续性的摄影流程。以下上一轮重拍完整保留；现行剪辑仍以 V10 为准。
+
 ## 369 张旧分镜 · 重拍已完成
 
 [重拍原图与批次](production/remake/README.md) · [逐镜最新版索引](production/remake/shot-index.csv)
